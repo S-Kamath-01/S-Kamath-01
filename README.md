@@ -13,11 +13,17 @@
 ## ⚡ Tech Stack  
 🚀 **Languages:** C++, Python, JavaScript  
 🖥️ **Web Dev:** React, Node.js
-🤖 **ML & AI:**Scikit-learn  
+🤖 **ML & AI:** Scikit-learn  
 🎯 **Competitive Coding:** LeetCode, Hackerrank  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=S-Kamath-01&theme=radical&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S-Kamath-01&theme=radical)
+
+
+
 
 🔍 _Always looking for exciting projects and new challenges!_  
 
