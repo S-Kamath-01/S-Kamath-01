@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub Profile!  
 
-<!--
-**S-Kamath-01/S-Kamath-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋 I'm Sumanth Kamath – a curious developer who loves turning ideas into reality through **code**.  
 
-Here are some ideas to get you started:
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+🔹 **Tech Explorer:** Constantly learning new technologies and improving my skills.  
+🔹 **Problem Solver:** Love tackling **Data Structures & Algorithms** challenges.  
+🔹 **AI Enthusiast:** Exploring **Machine Learning** & **Deep Learning** models.  
+🔹 **Web Dev Geek:** Learning to build interactive web apps with **React and Node.js**.  
+
+## ⚡ Tech Stack  
+🚀 **Languages:** C++, Python, JavaScript  
+🖥️ **Web Dev:** React, Node.js
+🤖 **ML & AI:**Scikit-learn  
+🎯 **Competitive Coding:** LeetCode, Hackerrank  
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=radical)  
+
+🔍 _Always looking for exciting projects and new challenges!_  
+
+---
+
+🎯 **Fun Fact:** If debugging is the process of removing software bugs, then programming must be the process of putting them in. 😆  
