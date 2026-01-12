@@ -40,7 +40,7 @@ I bridge the gap between **Mathematical Modeling** and **Software Engineering**.
 ---
 
 ## 🏆 Featured Projects
-*(Note: Source code for some projects is currently private due to security/institutional policies. Documentation available upon request.)*
+*(Note: Source code for these projects is currently private to protect intellectual property and sensitive data. Documentation and diagrams are available upon request.)*
 
 ### 1. 🎓 InsightFlow EDU - Academic Analytics Platform
 * **Stack:** Oracle SQL, PL/SQL, Python, React.js
@@ -55,19 +55,6 @@ I bridge the gap between **Mathematical Modeling** and **Software Engineering**.
 ### 3. 💰 FinShashtra - Loan Management System
 * **Stack:** TypeScript, React, Firebase
 * **Description:** Built a financial tool for calculating loan EMIs and comparing interest rates. Delivered a functional MVP in 24 hours during **DevSprint 2025**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=radical&count_private=true" alt="Sumanth's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <i>(Note: Stats may appear low as primary project repositories are currently private.)</i>
-</p>
 
 ---
 
