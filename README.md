@@ -2,25 +2,25 @@
 
 <h3 align="center">Hi there! 👋 I'm Sumanth Kamath</h3>
 <p align="center">
-  <b>MnC Undergrad @ MIT Manipal | Data Analytics & Machine Learning | Backend Engineering</b>
+  <b>B.Tech Mathematics & Computing @ MIT Manipal | Aspiring Quant Systems Engineer | High-Performance C++</b>
 </p>
 
 <p align="center">
-  <i>"Data is the new oil. It’s valuable, but if unrefined it cannot really be used." – Clive Humby</i>
+  <i>"In quantitative finance, latency is a tax on your strategy. Performance is a feature."</i>
 </p>
 
 ---
 
 ## 🔥 About Me
-I bridge the gap between **Mathematical Modeling** and **Software Engineering**.
+I bridge the gap between **Rigorous Mathematical Modeling** and **Low-Latency Software Engineering**.
 <br>
-🔹 **Data Systems Engineer:** Architecting normalized databases (3NF) and backend logic using **Oracle SQL** and **Python**.
+🔹 **Systems Engineering:** Focusing on memory management, concurrency, and high-performance **C++** architecture.
 <br>
-🔹 **AI Enthusiast:** Building predictive models using **TensorFlow, LSTM,** and **Scikit-Learn**.
+🔹 **Financial Data Science:** Building pipelines for time-series forecasting, volatility analysis, and backtesting using **Python, NumPy, and Pandas**.
 <br>
-🔹 **Problem Solver:** Tackling complex challenges in **Data Structures & Algorithms**.
+🔹 **Database Architecture:** Architecting normalized databases (3NF) and writing high-efficiency queries using **Oracle SQL**.
 <br>
-🔹 **Tech Explorer:** Constantly exploring the intersection of **Math, Code, and Finance**.
+🔹 **Core Mission:** Currently deep-diving into order matching algorithms, cache optimization, and algorithmic trading systems.
 
 ---
 
@@ -30,34 +30,35 @@ I bridge the gap between **Mathematical Modeling** and **Software Engineering**.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Backend & DB** | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) |
+| **Systems Core** | ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white) ![GDB](https://img.shields.io/badge/-GDB-1A1A1A?style=flat&logo=gnu&logoColor=white) |
+| **Financial Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Database & Tools**| ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) |
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
-*(Note: Source code for these projects is currently private to protect intellectual property and sensitive data. Documentation and diagrams are available upon request.)*
+## 🚧 Currently Building (Spring 2026)
+* **High-Performance Order Matching Engine (C++):** Designing a threaded matching engine using standard library algorithms. Currently profiling `std::map` vs. contiguous memory `std::vector` to minimize L1 cache misses and reduce order-matching latency.
+* **Algorithmic Volatility Forecaster (Python):** Building an ARIMA-based pipeline to forecast NIFTY50 volatility with comprehensive 12-month backtesting.
 
-### 1. 🎓 InsightFlow EDU - Academic Analytics Platform
-* **Stack:** Oracle SQL, PL/SQL, Python, React.js
-* **Description:** Engineered a full-stack academic intervention system. Designed a **Risk Detection Engine** using rule-based logic to flag at-risk students and a **Sentiment Analyzer** for student feedback.
-* **Key Tech:** 3NF Database Normalization, Stored Procedures, SRS Design.
+---
 
-### 2. 📰 AI-Based Fake News Classification Engine
+## 🏆 Academic & Applied Projects
+
+### 1. 📰 AI-Based Classification Engine
 * **Stack:** Python, TensorFlow, LSTM, Matplotlib
-* **Description:** Constructed a deep learning classification model using **Long Short-Term Memory (LSTM)** networks to detect fake news with **92% accuracy**.
-* **Key Tech:** NLP, Tokenization, TF-IDF Vectorization.
+* **Description:** Constructed a deep learning classification model using **Long Short-Term Memory (LSTM)** networks to process sequential data, achieving **92% accuracy**.
+
+### 2. 🎓 InsightFlow EDU - Academic Analytics Platform
+* **Stack:** Oracle SQL, PL/SQL, Python
+* **Description:** Engineered a data-driven academic intervention system. Designed a **Risk Detection Engine** using rule-based logic and optimized a 3NF normalized database using Stored Procedures.
 
 ### 3. 💰 FinShashtra - Loan Management System
-* **Stack:** TypeScript, React, Firebase
-* **Description:** Built a financial tool for calculating loan EMIs and comparing interest rates. Delivered a functional MVP in 24 hours during **DevSprint 2025**.
+* **Description:** Developed a financial tool for calculating loan EMIs, amortizations, and comparing interest rate structures.
 
 ---
 
 <p align="center">
-  🔍 <i>Always looking for exciting opportunities in Data Analytics & Software Engineering!</i>
+  🔍 <i>Actively seeking 2026 opportunities in Quant Engineering, C++ Systems Development, and Data Infrastructure.</i>
 </p>
