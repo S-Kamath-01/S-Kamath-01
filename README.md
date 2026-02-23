@@ -18,7 +18,7 @@ I bridge the gap between **Rigorous Mathematical Modeling** and **Low-Latency So
 <br>
 🔹 **Financial Data Science:** Building pipelines for time-series forecasting, volatility analysis, and backtesting using **Python, NumPy, and Pandas**.
 <br>
-🔹 **Database Architecture:** Architecting normalized databases (3NF) and writing high-efficiency queries using **Oracle SQL**.
+🔹 **Database Architecture:** Architecting normalized relational databases (3NF) and flexible NoSQL data lakes using **Oracle SQL, MySQL, and MongoDB**.
 <br>
 🔹 **Core Mission:** Currently deep-diving into order matching algorithms, cache optimization, and algorithmic trading systems.
 
@@ -31,8 +31,9 @@ I bridge the gap between **Rigorous Mathematical Modeling** and **Low-Latency So
 | Category | Technologies |
 | :--- | :--- |
 | **Systems Core** | ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white) ![GDB](https://img.shields.io/badge/-GDB-1A1A1A?style=flat&logo=gnu&logoColor=white) |
-| **Financial Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Database & Tools**| ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) |
+| **Data & Quant** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Databases**| ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 
 </div>
 
