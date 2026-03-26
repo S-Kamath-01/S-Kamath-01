@@ -39,12 +39,6 @@ I bridge the gap between **Rigorous Mathematical Modeling** and **Low-Latency So
 
 ---
 
-## 🚧 Currently Building (Spring 2026)
-* **High-Performance Order Matching Engine (C++):** Designing a threaded matching engine using standard library algorithms. Currently profiling `std::map` vs. contiguous memory `std::vector` to minimize L1 cache misses and reduce order-matching latency.
-* **Algorithmic Volatility Forecaster (Python):** Building an ARIMA-based pipeline to forecast NIFTY50 volatility with comprehensive 12-month backtesting.
-
----
-
 ## 🏆 Academic & Applied Projects
 
 ### 1. 📰 AI-Based Classification Engine
