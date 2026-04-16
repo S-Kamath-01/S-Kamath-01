@@ -1,62 +1,103 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
+<h1 align="center">⚡ Sumanth Kamath</h1>
 
-<h3 align="center">Hi there! 👋 I'm Sumanth Kamath</h3>
 <p align="center">
-  <b>B.Tech Mathematics & Computing @ MIT Manipal | Aspiring Quant Systems Engineer | Data Science</b>
+  <b>Mathematics & Computing @ MIT Manipal</b><br>
+  Data Science • Machine Learning • Quantitative Systems (in progress)
 </p>
 
 <p align="center">
-  <i>"In quantitative finance, latency is a tax on your strategy. Performance is a feature."</i>
+  <i>"Models predict. Systems execute. Edge lies in both."</i>
 </p>
 
 ---
 
-## 🔥 About Me
-I bridge the gap between **Rigorous Mathematical Theory** and **Applied Software Engineering**. As a Mathematics & Computing undergrad, I am actively building systems that require high-performance logic and data-driven architecture.
-<br>
-🔹 **Systems & Algorithms:** Mastering pure **C++17**, Object-Oriented Programming (OOP), and memory management to build algorithmic logic engines.
-<br>
-🔹 **Applied Machine Learning:** Completing the DeepLearning.AI Machine Learning Specialization, focusing on applying predictive models (Scikit-Learn) to financial datasets.
-<br>
-🔹 **Data Deployment (Backend):** Bridging ML and software by deploying analytical models via **Python & FastAPI**.
-<br>
-🔹 **Database Architecture:** Architecting normalized relational databases (3NF) and writing complex queries using **Oracle SQL and PostgreSQL**.
-<br>
-🔹 **Core Mission:** Currently deep-diving into order matching algorithms, algorithmic trading logic, and REST API deployment for ML models.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Kamath-01&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Current Focus
+## 🧠 About
 
-<div align="center">
+I work at the intersection of **mathematics, data, and computation**.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Systems & Logic** | ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-1A1A1A?style=flat&logo=codeforces&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Data & ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Databases & APIs**| ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+* Focused on **machine learning, statistical modeling, and data systems**
+* Strong foundation in **mathematical reasoning and algorithmic thinking**
+* Experience building **data pipelines and analytical backends**
+* Exploring **quantitative finance, trading logic, and predictive systems**
 
-</div>
+No buzzwords. Just building.
 
 ---
 
-## 🏆 Active Engineering & Core Projects
+## 🛠️ Tech Stack
 
-### 1. 🚧 [Currently Engineering] Real-Time Financial Anomaly Detection API
-* **Stack:** Python, Scikit-Learn, Pandas, FastAPI
-* **Description:** Building a machine learning pipeline to detect fraudulent/anomalous transactions. Training an unsupervised anomaly detection model (focusing on Isolation Forests) and deploying it via a high-concurrency **FastAPI** REST endpoint to process incoming JSON transaction data in real-time.
+<p align="center">
 
-### 2. 🚧 [Currently Engineering] C++ Algorithmic Order Matching Engine
-* **Stack:** Pure C++17, Standard Template Library (STL)
-* **Description:** Developing a terminal-based, low-latency execution engine. Utilizing advanced C++ data structures (Vectors, Queues, HashMaps) and Object-Oriented Principles to ingest historical tick data, process "Buy/Sell" parameters, and match orders efficiently without relying on external web frameworks.
+### Languages
 
-### 3. 🎓 InsightFlow EDU - Academic Analytics Platform (Completed)
-* **Stack:** Oracle SQL, PL/SQL, Python
-* **Description:** Engineered a data-driven academic intervention system. Designed a **Risk Detection Engine** using rule-based logic and optimized a 3NF normalized database using Stored Procedures and complex relational constraints.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+
+### Data & ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat\&logo=oracle\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+
+</p>
+
+---
+
+## 🏆 Featured Work
+
+### 🎓 InsightFlow EDU — Academic Analytics Platform
+
+**Stack:** Oracle SQL • PL/SQL • Python
+
+* Designed a **normalized (3NF) relational database**
+* Built a **rule-based risk detection engine**
+* Implemented **stored procedures + constraints** for data integrity
+* Generated actionable insights for identifying at-risk students
+
+---
+
+## 📈 Current Direction
+
+* Machine Learning → **predictive systems**
+* Statistics → **financial modeling**
+* Data Engineering → **scalable pipelines**
+* Quant Finance → **research + execution systems (early stage)**
 
 ---
 
 <p align="center">
-  🔍 <i>Actively seeking 2026 placement opportunities in Data Science, Backend Infrastructure, and C++ Systems Development.</i>
+  ⚡ Building quietly. Improving daily. Results soon.
 </p>
