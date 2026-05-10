@@ -14,22 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  />
-
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"
-  />
-</p>
-
----
-
 ## 🧠 About Me
 
 I work at the intersection of **mathematics, data, and computation**.
@@ -72,12 +56,23 @@ Academic Analytics Platform
 
 ---
 
-## 📈 Direction
+## 📈 Current Direction
 
 - Machine Learning → predictive systems
 - Statistics → financial modeling
 - Data Engineering → scalable pipelines
 - Quant Finance → research and execution
+
+---
+
+## 📌 Core Interests
+
+- Statistical Learning
+- Quantitative Research
+- Optimization Systems
+- Data Infrastructure
+- Financial Analytics
+- Computational Mathematics
 
 ---
 
