@@ -85,7 +85,7 @@ Academic analytics platform developed as part of Software Engineering and DBMS c
 - Created ER diagrams, UML diagrams, and SRS documentation
 - Implemented database workflows for student intervention tracking
 
-[🔗 View Repository](https://github.com/S-Kamath-01/InsightFlow-Edu)
+[🔗 View Repository](https://github.com/S-Kamath-01/InsightFlowEdu)
 
 ---
 
