@@ -18,7 +18,6 @@
 
 I work at the intersection of **mathematics, data science, and backend system architecture**. My focus is on building rigorous analytical pipelines and engineering robust data models that solve real-world problems. 
 
-- 🔬 **Researching:** Computational Social Science & NLP (analyzing 50k+ texts for behavioral patterns).
 - 🏗️ **Building:** Normalized relational databases and predictive machine learning models.
 - ⚙️ **Applying:** Mathematical reasoning, statistical validation, and core software engineering principles.
 
@@ -47,13 +46,7 @@ While my core stack is built on foundational ML and backend systems, I am curren
 
 ---
 
-## 🏆 Featured Work & Research
-
-### 📊 Applied ML & NLP Research (Ongoing)
-*International Faculty Summer Internship — MIT Manipal*
-- Building an end-to-end Python NLP pipeline (**Sentence-Transformers, UMAP, HDBSCAN, BERTopic**) to analyze 50,000+ Reddit posts.
-- Constructing a PCA-weighted Legal Distress Index using **DistilRoBERTa** emotion classification.
-- Validating findings using non-parametric statistical testing (Kruskal-Wallis, Mann-Whitney U).
+## 🏆 Featured Projects
 
 ### 🎓 InsightFlow EDU — Academic Analytics Platform
 - Architected a **fully normalized (3NF) Oracle database schema** comprising 8 relational tables.
@@ -63,28 +56,4 @@ While my core stack is built on foundational ML and backend systems, I am curren
 ### 🚀 SpaceX Falcon 9 Landing Prediction
 - Built a machine learning pipeline to predict first-stage booster landings.
 - Trained classification models (Logistic Regression, SVM, KNN, Decision Tree) using **GridSearchCV**.
-- Achieved **94.44% test accuracy** and visualized geospatial trends using Plotly Dash and Folium.
-
----
-
-## 📈 Core Interests
-
-- Statistical Learning & Hypothesis Testing
-- Natural Language Processing (Topic Modeling & Semantic Search)
-- Robust Database Architecture
-- Quantitative Research & Analytics
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <i>Consistency over hype.</i>
-</p>
+- Achieved **
