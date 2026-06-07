@@ -129,10 +129,9 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 # 📊 GitHub Stats
 
 <div align="center">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=github_dark&hide_border=true" />
 
 <br><br>
 
