@@ -1,6 +1,11 @@
+```md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Machine+Learning+%7C+NLP+%7C+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Machine+Learning+%7C+NLP+%7C+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br>
+
+### Mathematics & Computing • Machine Learning • NLP • Database Systems
 
 </div>
 
@@ -24,7 +29,7 @@ Most of my time currently goes into learning modern ML techniques, building proj
 - Strengthening Machine Learning fundamentals
 - Learning PyTorch and Transformer architectures
 - Exploring LLM applications and RAG systems
-- Building deployment-ready ML projects
+- Building practical ML projects
 
 ---
 
@@ -32,7 +37,7 @@ Most of my time currently goes into learning modern ML techniques, building proj
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,vscode" alt="Skills Grid" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,vscode&perline=7" alt="Skills Grid" />
 
 </div>
 
@@ -78,11 +83,11 @@ Most of my time currently goes into learning modern ML techniques, building proj
 Academic analytics platform developed as part of Software Engineering and DBMS coursework.
 
 - Designed a fully normalized (3NF) Oracle database schema
-- Developed Oracle SQL and PL/SQL logic for academic risk assessment
+- Developed Oracle SQL and PL/SQL procedures for academic risk assessment
 - Created ER diagrams, UML diagrams, and SRS documentation
 - Implemented database workflows for student intervention tracking
 
-🔗 Repository: https://github.com/S-Kamath-01/InsightFlow-Edu
+[🔗 View Repository](https://github.com/S-Kamath-01/InsightFlow-Edu)
 
 ---
 
@@ -96,7 +101,7 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 - Achieved 94.44% accuracy using an optimized Decision Tree model
 - Developed interactive dashboards and geospatial visualizations
 
-🔗 Repository: https://github.com/S-Kamath-01/IBM-APPLIED-DATA-SCIENCE-CAPSTONE
+[🔗 View Repository](https://github.com/S-Kamath-01/IBM-APPLIED-DATA-SCIENCE-CAPSTONE)
 
 ---
 
@@ -127,20 +132,27 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=transparent&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=transparent&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=github_dark&hide_border=true" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=transparent&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
+# 📈 Contribution Graph
+
+[![Sumanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Kamath-01&theme=github-dark&hide_border=true)](https://github.com/S-Kamath-01)
+
+---
+
 <div align="center">
 
-Learning in public, building projects, and improving one commit at a time.
+⭐ Always exploring new ideas at the intersection of mathematics, data, and software.
 
 </div>
+```
