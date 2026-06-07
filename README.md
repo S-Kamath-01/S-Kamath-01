@@ -1,89 +1,90 @@
 <h1 align="center">⚡ Sumanth Kamath</h1>
 
 <p align="center">
-  <b>Mathematics & Computing @ MIT Manipal</b>
+  <b>Mathematics & Computing @ MIT Manipal (Expected 2027)</b>
 </p>
 
 <p align="center">
-  Data Science • Machine Learning • Quantitative Systems
+  Applied Machine Learning • Relational Database Systems • Quantitative Analysis
 </p>
 
 <p align="center">
-  <i>Turning data into signals, and signals into decisions.</i>
+  <i>Turning data into signals, and signals into scalable decisions.</i>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I work at the intersection of **mathematics, data, and computation**.
+I work at the intersection of **mathematics, data science, and backend system architecture**. My focus is on building rigorous analytical pipelines and engineering robust data models that solve real-world problems. 
 
-- Building **machine learning models** and analytical pipelines
-- Working with **structured data systems and relational databases**
-- Applying **mathematical reasoning to real-world problems**
-- Exploring **quantitative finance and trading systems**
+- 🔬 **Researching:** Computational Social Science & NLP (analyzing 50k+ texts for behavioral patterns).
+- 🏗️ **Building:** Normalized relational databases and predictive machine learning models.
+- ⚙️ **Applying:** Mathematical reasoning, statistical validation, and core software engineering principles.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,r,matlab,js,ts,postgres,git"
-  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,swift,mysql,sqlite,git,linux" />
 </p>
 
-<p align="center">
-  <b>ML & Data:</b> Pandas • NumPy • Scikit-Learn
-  <br>
-  <b>Backend:</b> FastAPI
-  <br>
-  <b>Databases:</b> PostgreSQL • Oracle SQL
-</p>
+- **Languages:** Python, C++, SQL (Oracle PL/SQL), Java, Swift
+- **Data Science & ML:** Scikit-Learn, Pandas, NumPy, BERTopic, Matplotlib, XGBoost, PCA
+- **Core CS:** Data Structures & Algorithms, OOP, Relational Database Design (3NF)
+- **Tools:** Git, GitHub, VS Code, Jupyter, Unix/Linux
 
 ---
 
-## 🏆 Featured Project
+## 🌱 Currently Learning (The Lab)
 
-### 🎓 InsightFlow EDU
+While my core stack is built on foundational ML and backend systems, I am currently exploring and building side-projects with modern AI engineering tools:
 
-Academic Analytics Platform
-
-- Designed a **3NF normalized database architecture**
-- Built a **risk detection system** using rule-based logic
-- Implemented **PL/SQL procedures and constraints**
-- Generated insights for identifying at-risk students
+> **Deep Learning & NLP:** PyTorch, TensorFlow, HuggingFace  
+> **GenAI & LLMs:** LangChain, RAG architectures, Parameter-Efficient Fine-Tuning (LoRA, QLoRA)  
+> **Deployment & APIs:** FastAPI, Docker, System Design  
 
 ---
 
-## 📈 Current Direction
+## 🏆 Featured Work & Research
 
-- Machine Learning → predictive systems
-- Statistics → financial modeling
-- Data Engineering → scalable pipelines
-- Quant Finance → research and execution
+### 📊 Applied ML & NLP Research (Ongoing)
+*International Faculty Summer Internship — MIT Manipal*
+- Building an end-to-end Python NLP pipeline (**Sentence-Transformers, UMAP, HDBSCAN, BERTopic**) to analyze 50,000+ Reddit posts.
+- Constructing a PCA-weighted Legal Distress Index using **DistilRoBERTa** emotion classification.
+- Validating findings using non-parametric statistical testing (Kruskal-Wallis, Mann-Whitney U).
+
+### 🎓 InsightFlow EDU — Academic Analytics Platform
+- Architected a **fully normalized (3NF) Oracle database schema** comprising 8 relational tables.
+- Authored the core Software Requirements Specification (SRS), translating system needs into detailed UML and ER diagrams.
+- Developed complex **Oracle SQL queries, PL/SQL procedures, and integrity constraints** to automate student risk assessment.
+
+### 🚀 SpaceX Falcon 9 Landing Prediction
+- Built a machine learning pipeline to predict first-stage booster landings.
+- Trained classification models (Logistic Regression, SVM, KNN, Decision Tree) using **GridSearchCV**.
+- Achieved **94.44% test accuracy** and visualized geospatial trends using Plotly Dash and Folium.
 
 ---
 
-## 📌 Core Interests
+## 📈 Core Interests
 
-- Statistical Learning
-- Quantitative Research
-- Optimization Systems
-- Data Infrastructure
-- Financial Analytics
-- Computational Mathematics
+- Statistical Learning & Hypothesis Testing
+- Natural Language Processing (Topic Modeling & Semantic Search)
+- Robust Database Architecture
+- Quantitative Research & Analytics
 
 ---
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/S-Kamath-01">GitHub</a>
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Consistency over hype.
+  ⚡ <i>Consistency over hype.</i>
 </p>
