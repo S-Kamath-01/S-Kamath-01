@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Sumanth Kamath</h1>
 
 <p align="center">
-  <b>Mathematics & Computing @ MIT Manipal (Expected 2027)</b>
+  <b>Mathematics & Computing @ MIT Manipal</b>
 </p>
 
 <p align="center">
