@@ -35,10 +35,7 @@ Most of my time currently goes into learning modern ML techniques, building proj
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,git,github,linux,vscode&perline=8" />
 </div>
 
 ## Programming Languages
