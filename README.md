@@ -16,7 +16,6 @@ I'm a Mathematics & Computing student at MIT Manipal interested in Machine Learn
 
 Most of my time currently goes into learning modern ML techniques, building projects, and exploring how mathematical concepts translate into practical software systems.
 
-- 📚 Preparing for placements
 - 🤖 Interested in Machine Learning and NLP
 - 🗄️ Enjoy working with databases and data-driven applications
 - 🧩 Learn best by building projects
