@@ -35,7 +35,7 @@ Most of my time currently goes into learning modern ML techniques, building proj
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,vscode&perline=7" alt="Skills Grid" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,git,github,linux,vscode&perline=8" />
 
 </div>
 
@@ -45,6 +45,8 @@ Most of my time currently goes into learning modern ML techniques, building proj
 - SQL / Oracle SQL / PL-SQL
 - C++
 - Java (Basic)
+- R
+- MATLAB
 
 ## Machine Learning & Data Science
 
