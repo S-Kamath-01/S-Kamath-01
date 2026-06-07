@@ -1,86 +1,146 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Applied+Machine+Learning+%7C+Data+Science;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Machine+Learning+%7C+NLP+%7C+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
 
-<p align="center">
-  <b>Bridging the gap between pure mathematical theory and robust software engineering.</b>
-</p>
+</div>
+
+---
+
+# 👋 About Me
+
+I'm a Mathematics & Computing student at MIT Manipal interested in Machine Learning, NLP, Data Science, and Database Systems.
+
+Most of my time currently goes into learning modern ML techniques, building projects, and exploring how mathematical concepts translate into practical software systems.
+
+- 📚 Preparing for placements
+- 🤖 Interested in Machine Learning and NLP
+- 🗄️ Enjoy working with databases and data-driven applications
+- 🧩 Learn best by building projects
+
+---
+
+# 🎯 Current Focus
+
+- Strengthening Machine Learning fundamentals
+- Learning PyTorch and Transformer architectures
+- Exploring LLM applications and RAG systems
+- Building deployment-ready ML projects
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,vscode" alt="Skills Grid" />
+
+</div>
+
+## Programming Languages
+
+- Python
+- SQL / Oracle SQL / PL-SQL
+- C++
+- Java (Basic)
+
+## Machine Learning & Data Science
+
+- NumPy
+- Pandas
+- Scikit-learn
+- BERTopic
+- PCA
+- Statistical Hypothesis Testing
+- Matplotlib
+- Seaborn
+
+## Computer Science
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Relational Database Design (3NF)
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Linux
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 InsightFlow EDU
+
+Academic analytics platform developed as part of Software Engineering and DBMS coursework.
+
+- Designed a fully normalized (3NF) Oracle database schema
+- Developed Oracle SQL and PL/SQL logic for academic risk assessment
+- Created ER diagrams, UML diagrams, and SRS documentation
+- Implemented database workflows for student intervention tracking
+
+🔗 Repository: https://github.com/S-Kamath-01/InsightFlow-Edu
+
+---
+
+## 🚀 SpaceX Falcon 9 Landing Prediction
+
+Machine learning project completed as part of the IBM Applied Data Science Capstone.
+
+- Collected and processed launch data using APIs, SQL, and Python
+- Built and evaluated classification models using Scikit-learn
+- Compared Logistic Regression, SVM, KNN, and Decision Tree models
+- Achieved 94.44% accuracy using an optimized Decision Tree model
+- Developed interactive dashboards and geospatial visualizations
+
+🔗 Repository: https://github.com/S-Kamath-01/IBM-APPLIED-DATA-SCIENCE-CAPSTONE
+
+---
+
+# 🌱 Currently Learning
+
+## Machine Learning & AI
+
+- PyTorch
+- HuggingFace Transformers
+- LoRA & QLoRA
+
+## Backend & Deployment
+
+- FastAPI
+- Docker
+- Gradio
+
+## LLM Applications
+
+- LangChain
+- ChromaDB
+- Ollama
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=transparent&hide_border=true" />
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=S-Kamath-01&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am currently an undergraduate student at **MIT Manipal (Expected 2027)**, majoring in **Mathematics & Computing**. My work revolves around turning raw data into meaningful signals through machine learning, and designing the relational database architectures necessary to support those systems.
-
-* 🚀 Passionate about optimizing algorithms, database normalization, and predictive modeling.
-* 🧠 Deeply interested in the underlying mathematics of machine learning (Linear Algebra, Probability, Time Series).
-* ⚙️ I enjoy building end-to-end data pipelines—from data ingestion and structured EDA to core backend logic.
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A&icon_color=3B82F6" height="160" alt="GitHub Stats" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A" height="160" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Kamath-01&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A&icon_color=3B82F6&sideNums=3B82F6&sideLabels=8A8A8A&ring=3B82F6&fire=3B82F6&currStreakLabel=8A8A8A" alt="GitHub Streak" />
-</div>
 
----
+Learning in public, building projects, and improving one commit at a time.
 
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,mysql,git,github,linux,vscode" alt="Skills Grid" />
-</div>
-<br>
-
-| **Category** | **Technologies & Skills** |
-| :--- | :--- |
-| **💻 Languages** | Python, SQL, Oracle PL/SQL, C++, Java |
-| **🧠 Machine Learning** | Scikit-learn, BERTopic, PCA, Statistical Hypothesis Testing |
-| **📊 Data Science** | NumPy, Pandas, Matplotlib, Seaborn |
-| **🗄️ Core CS & DB** | Data Structures & Algorithms, OOP, Software Engineering, Relational Design (3NF) |
-| **🔧 Tools** | Git, GitHub, VS Code, Jupyter Notebook, Linux/Unix |
-
----
-
-## 🏆 Featured Projects
-
-### 🎓 [InsightFlow EDU](https://github.com/S-Kamath-01/InsightFlow-Edu)
-*An academic analytics platform focusing on robust backend architecture and data integrity.*
-* Architected a fully normalized **(3NF) Oracle database schema**.
-* Developed core **SQL queries and PL/SQL procedures** for automated risk assessment.
-* Engineered Entity-Relationship (ER) models and UML diagrams per strict software engineering standards.
-
-### 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/S-Kamath-01/IBM-APPLIED-DATA-SCIENCE-CAPSTONE)
-*A full-lifecycle machine learning project predicting first-stage booster landings.*
-* Extracted and processed data via **REST APIs and BeautifulSoup**.
-* Trained classification models (Decision Tree, SVM, KNN) achieving **94.44% accuracy**.
-* Designed interactive **Plotly Dash** visualizations and geospatial maps using Folium.
-
----
-
-## 🏗️ Currently Building & Exploring
-
-I am actively expanding my skill set into modern AI infrastructure and advanced deep learning frameworks. 
-
-* 🤖 **Deep Learning:** PyTorch, HuggingFace Transformers
-* 🧠 **LLMs & GenAI:** Parameter-Efficient Fine-Tuning (LoRA, QLoRA)
-* 🔍 **RAG Architectures:** LangChain, ChromaDB vector stores
-* ⚙️ **Backend Engineering:** API development with FastAPI, containerization with Docker
-
----
-
-<div align="center">
-  <i>"Learning in public, shipping projects, and trying to get a little better every day."</i>
 </div>
