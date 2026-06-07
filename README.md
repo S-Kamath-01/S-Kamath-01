@@ -1,59 +1,36 @@
-<h1 align="center">⚡ Sumanth Kamath</h1>
+<div align="center">
 
-<p align="center">
-  <b>Mathematics & Computing @ MIT Manipal</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT;Machine+Learning+%7C+Data+Science;Building+Data-Driven+Systems)](https://git.io/typing-svg)
 
-<p align="center">
-  Applied Machine Learning • Relational Database Systems • Quantitative Analysis
-</p>
+Mathematics & Computing student at MIT Manipal (Expected 2027).  
+Bridging the gap between mathematical theory and software engineering.
 
-<p align="center">
-  <i>Turning data into signals, and signals into scalable decisions.</i>
-</p>
+![](https://komarev.com/ghpvc/?username=S-Kamath-01&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Analytics
 
-I work at the intersection of **mathematics, data science, and backend system architecture**. My focus is on building rigorous analytical pipelines and engineering robust data models that solve real-world problems. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A&icon_color=3B82F6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A" height="150" alt="Top Languages" />
+</div>
 
-- 🏗️ **Building:** Normalized relational databases and predictive machine learning models.
-- ⚙️ **Applying:** Mathematical reasoning, statistical validation, and core software engineering principles.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,swift,mysql,sqlite,git,linux" />
-</p>
-
-- **Languages:** Python, C++, SQL (Oracle PL/SQL), Java, Swift
-- **Data Science & ML:** Scikit-Learn, Pandas, NumPy, BERTopic, Matplotlib, XGBoost, PCA
-- **Core CS:** Data Structures & Algorithms, OOP, Relational Database Design (3NF)
-- **Tools:** Git, GitHub, VS Code, Jupyter, Unix/Linux
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Kamath-01&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8A8A8A&icon_color=3B82F6&sideNums=3B82F6&sideLabels=8A8A8A&ring=3B82F6&fire=3B82F6&currStreakLabel=8A8A8A" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🌱 Currently Learning (The Lab)
+## 🛠️ Tech Stack
 
-While my core stack is built on foundational ML and backend systems, I am currently exploring and building side-projects with modern AI engineering tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,mysql,git,github,linux,vscode" alt="Skills Grid" />
+</div>
+<br>
 
-> **Deep Learning & NLP:** PyTorch, TensorFlow, HuggingFace  
-> **GenAI & LLMs:** LangChain, RAG architectures, Parameter-Efficient Fine-Tuning (LoRA, QLoRA)  
-> **Deployment & APIs:** FastAPI, Docker, System Design  
-
----
-
-## 🏆 Featured Projects
-
-### 🎓 InsightFlow EDU — Academic Analytics Platform
-- Architected a **fully normalized (3NF) Oracle database schema** comprising 8 relational tables.
-- Authored the core Software Requirements Specification (SRS), translating system needs into detailed UML and ER diagrams.
-- Developed complex **Oracle SQL queries, PL/SQL procedures, and integrity constraints** to automate student risk assessment.
-
-### 🚀 SpaceX Falcon 9 Landing Prediction
-- Built a machine learning pipeline to predict first-stage booster landings.
-- Trained classification models (Logistic Regression, SVM, KNN, Decision Tree) using **GridSearchCV**.
-- Achieved **
+### Languages
+```text
+Python • SQL • PL/SQL • C++ • Java
