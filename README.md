@@ -16,6 +16,7 @@ I'm a Mathematics & Computing student at MIT Manipal interested in Machine Learn
 
 Most of my time currently goes into learning modern ML techniques, building projects, and exploring how mathematical concepts translate into practical software systems.
 
+- 📚 Preparing for placements
 - 🤖 Interested in Machine Learning and NLP
 - 🗄️ Enjoy working with databases and data-driven applications
 - 🧩 Learn best by building projects
@@ -96,7 +97,7 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 - Collected and processed launch data using APIs, SQL, and Python
 - Built and evaluated classification models using Scikit-learn
 - Compared Logistic Regression, SVM, KNN, and Decision Tree models
-- Achieved 94.44% accuracy using an optimized Decision Tree model
+- Achieved **94.44% accuracy** using an optimized Decision Tree model
 - Developed interactive dashboards and geospatial visualizations
 
 [🔗 View Repository](https://github.com/S-Kamath-01/IBM-APPLIED-DATA-SCIENCE-CAPSTONE)
@@ -129,13 +130,10 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 # 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-Kamath-01&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=github-dark-blue&hide_border=true" />
+<img width="45%" src="https://streak-stats.demolab.com?user=S-Kamath-01&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -143,7 +141,7 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 
 # 📈 Contribution Graph
 
-[![Sumanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Kamath-01&theme=github-dark&hide_border=true)](https://github.com/S-Kamath-01)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Kamath-01&theme=github-dark&hide_border=true)](https://github.com/S-Kamath-01)
 
 ---
 
@@ -152,3 +150,4 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 ⭐ Always exploring new ideas at the intersection of mathematics, data, and software.
 
 </div>
+
