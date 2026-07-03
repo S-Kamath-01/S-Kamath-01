@@ -90,15 +90,6 @@ Embedding-based recommendation engine built on MovieLens, designed for fast appr
 
 ---
 
-## ⚖️ NLP Analysis of Legal Discourse (r/LegalAdviceIndia)
-Research project analyzing legal help-seeking behavior on Reddit using NLP.
-- Topic modeling across legal domains using BERTopic (SBERT + UMAP + HDBSCAN)
-- Emotion classification and a custom PCA-derived Legal Distress Index
-- Cross-lingual robustness checks for Hinglish/code-mixed text
-- Statistical validation of support-gap and urgency measures
-
----
-
 ## 🎓 InsightFlow EDU
 Academic analytics platform developed as part of Software Engineering and DBMS coursework.
 - Designed a fully normalized (3NF) Oracle database schema
