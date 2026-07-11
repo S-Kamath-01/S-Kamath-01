@@ -1,70 +1,73 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Machine+Learning+%7C+NLP+%7C+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sumanth+%F0%9F%91%8B;Mathematics+%26+Computing+%40+MIT+Manipal;Machine+Learning+%7C+Data+Science;Always+Learning+Something+New" alt="Typing SVG" />
 <br>
-Mathematics & Computing • Machine Learning • NLP • Database Systems
+Mathematics & Computing • Machine Learning • Data Science • Database Systems
 </div>
 
 ---
 
 # 👋 About Me
-I'm a Mathematics & Computing student at MIT Manipal interested in Machine Learning, NLP, Data Science, and Database Systems.
-Most of my time currently goes into building end-to-end ML systems, applying NLP to real-world text data, and exploring how mathematical concepts translate into practical software systems.
-- 🤖 Interested in Machine Learning, NLP, and Recommender Systems
-- 🗄️ Enjoy working with databases and data-driven applications
-- 📊 Fascinated by how statistical rigor (cost-sensitive modeling, drift detection, explainability) makes ML systems production-ready, not just accurate
-- 🧩 Learn best by building projects end-to-end — from data to deployment
 
----
+I'm a Mathematics & Computing undergraduate at MIT Manipal with an interest in **Machine Learning, Data Science, and Database Systems**.
 
-# 🎯 Current Focus
-- Building production-style ML systems with proper deployment (FastAPI, Docker, PostgreSQL)
-- Applying NLP techniques (topic modeling, emotion classification) to real-world Indian social text data
-- Learning recommender systems — two-tower architectures, embedding-based retrieval, FAISS
-- Exploring cost-sensitive and explainable ML for high-stakes domains like fraud detection
-- Exploring LLM applications and RAG systems
+I enjoy building end-to-end software and machine learning applications that combine mathematical foundations with practical engineering. I learn best by taking projects from data collection and analysis to model development, backend implementation, and deployment.
+
+- 🤖 Interested in Machine Learning and Data Science
+- 🗄️ Enjoy building data-driven applications and working with databases
+- 📈 Interested in applying statistical and mathematical concepts to real-world problems
+- 🧩 Passionate about building end-to-end projects from idea to deployment
 
 ---
 
 # 🛠️ Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,git,github,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,fastapi,docker,pytorch,sklearn,git,github,linux,vscode&perline=12" />
 </div>
 
 ## Programming Languages
 - Python
-- SQL / Oracle SQL / PL-SQL
+- SQL (PostgreSQL, Oracle SQL, PL/SQL)
 - C++
 - Java (Basic)
 - R
 - MATLAB
 
 ## Machine Learning & Data Science
-- NumPy, Pandas, Scikit-learn
+
+- NumPy
+- Pandas
+- Scikit-learn
 - PyTorch
 - XGBoost
-- BERTopic, SBERT, UMAP, HDBSCAN
-- SHAP (model explainability)
-- PCA
+- Time Series Analysis
+- Model Explainability (SHAP)
 - Statistical Hypothesis Testing
-- Matplotlib, Seaborn
+- Data Visualization (Matplotlib)
+- 
+## Backend & Databases
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Docker
+- Alembic
+- REST APIs
 
 ## Computer Science
 - Data Structures & Algorithms
 - Database Management Systems
+- Operating Systems
+- Computer Networks
 - Software Engineering
-- Relational Database Design (3NF)
 
 ## Tools
-- Git, GitHub
-- Docker
-- FastAPI
-- Streamlit
-- PostgreSQL
-- VS Code, Jupyter Notebook
+- Git
+- GitHub
 - Linux
+- VS Code
+- Jupyter Notebook
 
 ---
-
 # 🚀 Featured Projects
 
 ## 💳 Fraud Detection (Cost-Optimal)
