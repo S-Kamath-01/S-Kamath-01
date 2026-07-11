@@ -22,7 +22,7 @@ I enjoy building end-to-end software and machine learning applications that comb
 # 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,fastapi,docker,pytorch,sklearn,git,github,linux,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,r,mysql,postgres,fastapi,docker,pytorch,git,github,linux,vscode&perline=13" />
 </div>
 
 ## Programming Languages
