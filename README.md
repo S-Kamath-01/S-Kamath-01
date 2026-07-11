@@ -44,7 +44,7 @@ I enjoy building end-to-end software and machine learning applications that comb
 - Model Explainability (SHAP)
 - Statistical Hypothesis Testing
 - Data Visualization (Matplotlib)
-- 
+  
 ## Backend & Databases
 - FastAPI
 - SQLAlchemy
