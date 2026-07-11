@@ -113,25 +113,6 @@ Machine learning project completed as part of the IBM Applied Data Science Capst
 
 ---
 
-# 🌱 Currently Learning
-## Machine Learning & AI
-- Advanced PyTorch patterns
-- HuggingFace Transformers
-- LoRA & QLoRA
-
-## Backend & Deployment
-- Docker (multi-stage builds, deployment workflows)
-- Advanced FastAPI patterns
-- Gradio
-
-## LLM Applications
-- LangChain
-- ChromaDB
-- Ollama
-- Retrieval-Augmented Generation (RAG) — currently building a Support Ticket Triage + RAG system
-
----
-
 # 📊 GitHub Stats
 <div align="center">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-Kamath-01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
